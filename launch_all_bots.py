@@ -65,14 +65,14 @@ class BotLauncher:
                 "type": "pyrogram"
             },
             
-            # Signal Generator Bot - Pyrogram Version
-            "signal_generator_pyrogram": {
-                "name": "Signal Generator Bot (Pyrogram)",
-                "path": self.workspace_root / "Signal genrator bot" / "signal_auto_bot_pyrogram.py",
-                "working_dir": self.workspace_root / "Signal genrator bot",
-                "description": "Pyrogram-based signal generation bot with advanced features",
-                "type": "pyrogram"
-            },
+            # # Signal Generator Bot - Pyrogram Version
+            # "signal_generator_pyrogram": {
+            #     "name": "Signal Generator Bot (Pyrogram)",
+            #     "path": self.workspace_root / "Signal genrator bot" / "signal_auto_bot_pyrogram.py",
+            #     "working_dir": self.workspace_root / "Signal genrator bot",
+            #     "description": "Pyrogram-based signal generation bot with advanced features",
+            #     "type": "pyrogram"
+            # },
             
             # Signal Generator Bot - Copy Trading
             "signal_generator_copytrading": {
