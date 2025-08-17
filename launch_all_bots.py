@@ -74,14 +74,14 @@ class BotLauncher:
             #     "type": "pyrogram"
             # },
             
-            # Signal Generator Bot - Copy Trading
-            "signal_generator_copytrading": {
-                "name": "Signal Generator Bot (Copy Trading)",
-                "path": self.workspace_root / "Signal genrator bot" / "bot.py",
-                "working_dir": self.workspace_root / "Signal genrator bot",
-                "description": "Copy trading bot with signal processing",
-                "type": "pyrogram"
-            },
+            # # Signal Generator Bot - Copy Trading
+            # "signal_generator_copytrading": {
+            #     "name": "Signal Generator Bot (Copy Trading)",
+            #     "path": self.workspace_root / "Signal genrator bot" / "bot.py",
+            #     "working_dir": self.workspace_root / "Signal genrator bot",
+            #     "description": "Copy trading bot with signal processing",
+            #     "type": "pyrogram"
+            # },
             
             # HelloGreeter bot
             "hellogreeter": {
