@@ -56,14 +56,14 @@ class BotLauncher:
                 "type": "pyrogram"
             },
             
-            # 55BTC bot
-            "55btc": {
-                "name": "55BTC Bot",
-                "path": self.workspace_root / "55BTC" / "55btcbot.py",
-                "working_dir": self.workspace_root / "55BTC",
-                "description": "55BTC trading bot",
-                "type": "pyrogram"
-            },
+            # # 55BTC bot
+            # "55btc": {
+            #     "name": "55BTC Bot",
+            #     "path": self.workspace_root / "55BTC" / "55btcbot.py",
+            #     "working_dir": self.workspace_root / "55BTC",
+            #     "description": "55BTC trading bot",
+            #     "type": "pyrogram"
+            # },
             
             # # Signal Generator Bot - Pyrogram Version
             # "signal_generator_pyrogram": {
