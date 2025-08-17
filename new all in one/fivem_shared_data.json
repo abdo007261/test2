@@ -1,0 +1,117 @@
+{
+  "timestamp": 1755446454300,
+  "game_data": {
+    "code": 200,
+    "success": true,
+    "data": {
+      "records": [
+        {
+          "formatValue": "2_0,,,,,,,10_4,,,,,",
+          "value": "4",
+          "planDrawTime": 1755446400000,
+          "expand": null,
+          "issue": 2031700192,
+          "issueDate": 20250817,
+          "completeSettleTime": null,
+          "serviceCode": "G",
+          "subServiceCode": "RG5M",
+          "productId": "0",
+          "simpleResultFormatList": [
+            {
+              "optionVal": [
+                "2_0"
+              ],
+              "optionI18n": [
+                "\u7ea2"
+              ],
+              "color": "red",
+              "resultSimpleAlias": [
+                null
+              ]
+            }
+          ],
+          "resultFormatValueI18n": [
+            "\u7ea2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "4",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "status": 2,
+          "startPlanDrawTime": null,
+          "endPlanDrawTime": null
+        },
+        {
+          "formatValue": "2_0,,,,,,,,,,,10_8,",
+          "value": "8",
+          "planDrawTime": 1755446100000,
+          "expand": null,
+          "issue": 2031700191,
+          "issueDate": 20250817,
+          "completeSettleTime": 1755446102371,
+          "serviceCode": "G",
+          "subServiceCode": "RG5M",
+          "productId": "0",
+          "simpleResultFormatList": [
+            {
+              "optionVal": [
+                "2_0"
+              ],
+              "optionI18n": [
+                "\u7ea2"
+              ],
+              "color": "red",
+              "resultSimpleAlias": [
+                null
+              ]
+            }
+          ],
+          "resultFormatValueI18n": [
+            "\u7ea2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "8",
+            ""
+          ],
+          "status": 2,
+          "startPlanDrawTime": null,
+          "endPlanDrawTime": null
+        }
+      ],
+      "total": 10272,
+      "size": 2,
+      "current": 1,
+      "orders": [],
+      "optimizeCountSql": true,
+      "hitCount": false,
+      "countId": null,
+      "maxLimit": null,
+      "searchCount": true,
+      "pages": 5136
+    },
+    "msg": "success"
+  },
+  "processed_data": {
+    "issue_number": 2031700192,
+    "colors": "RED   \ud83d\udd34",
+    "result_format": null,
+    "game_type": "RG5M",
+    "last_update": 1755446454300
+  }
+}

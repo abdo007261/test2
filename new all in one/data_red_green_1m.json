@@ -1,0 +1,63 @@
+{
+    "code": 200,
+    "success": true,
+    "data": {
+        "records": [
+            {
+                "formatValue": "2_0,,,,,10_2,,,,,,,",
+                "value": "2",
+                "planDrawTime": 1755446400000,
+                "expand": null,
+                "issue": 2031700960,
+                "issueDate": 20250817,
+                "completeSettleTime": 1755446403219,
+                "serviceCode": "G",
+                "subServiceCode": "RG1M",
+                "productId": "0",
+                "simpleResultFormatList": [
+                    {
+                        "optionVal": [
+                            "2_0"
+                        ],
+                        "optionI18n": [
+                            "\u7ea2"
+                        ],
+                        "color": "red",
+                        "resultSimpleAlias": [
+                            null
+                        ]
+                    }
+                ],
+                "resultFormatValueI18n": [
+                    "\u7ea2",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "2",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "status": 2,
+                "startPlanDrawTime": null,
+                "endPlanDrawTime": null
+            }
+        ],
+        "total": 51360,
+        "size": 1,
+        "current": 1,
+        "orders": [],
+        "optimizeCountSql": true,
+        "hitCount": false,
+        "countId": null,
+        "maxLimit": null,
+        "searchCount": true,
+        "pages": 51360
+    },
+    "msg": "success"
+}
