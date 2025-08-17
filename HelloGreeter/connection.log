@@ -1,0 +1,362 @@
+2025-03-05 09:17:04,930 - connection - INFO - Starting bot with connection management...
+2025-03-05 09:17:06,042 - connection - INFO - Bot started successfully: Greeting Bot
+2025-03-05 09:17:06,257 - connection - INFO - Connection health monitoring started
+2025-03-05 09:17:06,258 - connection - INFO - Watchdog monitoring started
+2025-03-05 09:17:06,385 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:18:06,507 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:18:40,886 - connection - INFO - Connection health monitoring stopped
+2025-03-05 09:18:40,886 - connection - INFO - Watchdog monitoring stopped
+2025-03-05 09:18:40,942 - connection - ERROR - Unexpected error in main loop: Task <Task pending name='Task-67' coro=<main.<locals>.start_bot() running at /home/runner/workspace/bot.py:5958> cb=[_run_until_complete_cb() at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py:181]> got Future <Task pending name='Task-95' coro=<Dispatcher.handler_worker() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py:197>> attached to a different loop
+2025-03-05 09:18:40,943 - connection - INFO - Shutdown initiated
+2025-03-05 09:18:40,943 - connection - INFO - Shutdown complete
+2025-03-05 09:18:40,943 - connection - INFO - Shutdown initiated
+2025-03-05 09:18:40,943 - connection - INFO - Shutdown complete
+2025-03-05 09:19:46,184 - connection - INFO - Starting bot with connection management...
+2025-03-05 09:19:47,280 - connection - INFO - Bot started successfully: Greeting Bot
+2025-03-05 09:19:47,617 - connection - INFO - Connection health monitoring started
+2025-03-05 09:19:47,617 - connection - INFO - Watchdog monitoring started
+2025-03-05 09:19:47,844 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:20:04,044 - connection - INFO - Connection health monitoring stopped
+2025-03-05 09:20:04,044 - connection - INFO - Watchdog monitoring stopped
+2025-03-05 09:20:04,093 - connection - ERROR - Unexpected error in main loop: Task <Task pending name='Task-67' coro=<main.<locals>.start_bot() running at /home/runner/workspace/bot.py:5958> cb=[_run_until_complete_cb() at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py:181]> got Future <Task pending name='Task-95' coro=<Dispatcher.handler_worker() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py:197>> attached to a different loop
+2025-03-05 09:20:04,094 - connection - INFO - Shutdown initiated
+2025-03-05 09:20:04,095 - connection - INFO - Shutdown complete
+2025-03-05 09:20:04,095 - connection - INFO - Shutdown initiated
+2025-03-05 09:20:04,095 - connection - INFO - Shutdown complete
+2025-03-05 09:20:36,488 - connection - INFO - Starting bot with connection management...
+2025-03-05 09:20:37,565 - connection - INFO - Bot started successfully: Greeting Bot
+2025-03-05 09:20:37,791 - connection - INFO - Connection health monitoring started
+2025-03-05 09:20:37,791 - connection - INFO - Watchdog monitoring started
+2025-03-05 09:20:37,923 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:20:52,275 - connection - INFO - Connection health monitoring stopped
+2025-03-05 09:20:52,275 - connection - INFO - Watchdog monitoring stopped
+2025-03-05 09:20:52,313 - connection - ERROR - Unexpected error in main loop: Task <Task pending name='Task-67' coro=<main.<locals>.start_bot() running at /home/runner/workspace/bot.py:5958> cb=[_run_until_complete_cb() at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py:181]> got Future <Task pending name='Task-95' coro=<Dispatcher.handler_worker() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py:197>> attached to a different loop
+2025-03-05 09:20:52,313 - connection - INFO - Shutdown initiated
+2025-03-05 09:20:52,314 - connection - INFO - Shutdown complete
+2025-03-05 09:20:52,314 - connection - INFO - Shutdown initiated
+2025-03-05 09:20:52,314 - connection - INFO - Shutdown complete
+2025-03-05 09:26:07,875 - connection - INFO - Starting bot with connection management...
+2025-03-05 09:26:08,951 - connection - INFO - Bot started successfully: Greeting Bot
+2025-03-05 09:26:09,203 - connection - INFO - Connection health monitoring started
+2025-03-05 09:26:09,203 - connection - INFO - Watchdog monitoring started
+2025-03-05 09:26:09,338 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:26:18,710 - connection - INFO - Connection health monitoring stopped
+2025-03-05 09:26:18,711 - connection - INFO - Watchdog monitoring stopped
+2025-03-05 09:26:18,746 - connection - ERROR - Unexpected error in main loop: Task <Task pending name='Task-67' coro=<main.<locals>.start_bot() running at /home/runner/workspace/bot.py:5958> cb=[_run_until_complete_cb() at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py:181]> got Future <Task pending name='Task-95' coro=<Dispatcher.handler_worker() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py:197>> attached to a different loop
+2025-03-05 09:26:18,747 - connection - INFO - Shutdown initiated
+2025-03-05 09:26:18,747 - connection - INFO - Shutdown complete
+2025-03-05 09:26:18,747 - connection - INFO - Shutdown initiated
+2025-03-05 09:26:18,747 - connection - INFO - Shutdown complete
+2025-03-05 09:29:56,363 - connection - INFO - Starting bot with connection management...
+2025-03-05 09:29:57,464 - connection - INFO - Bot started successfully: Greeting Bot
+2025-03-05 09:29:57,744 - connection - INFO - Connection health monitoring started
+2025-03-05 09:29:57,745 - connection - INFO - Watchdog monitoring started
+2025-03-05 09:29:57,906 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:30:58,041 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:31:58,159 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:32:58,309 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:33:58,429 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:34:57,750 - connection - WARNING - No activity detected for 300 seconds. Restarting bot...
+2025-03-05 09:34:57,750 - connection - INFO - Restarting bot
+2025-03-05 09:34:57,785 - connection - ERROR - Error during bot restart: Task <Task pending name='Task-113' coro=<watchdog_monitor() running at /home/runner/workspace/bot.py:412>> got Future <Task pending name='Task-96' coro=<Dispatcher.handler_worker() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/pyrogram/dispatcher.py:197>> attached to a different loop
+2025-03-05 09:34:57,785 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:34:58,586 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:34:58,859 - connection - INFO - Restarting bot
+2025-03-05 09:34:58,884 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:34:58,884 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:34:59,893 - connection - INFO - Restarting bot
+2025-03-05 09:34:59,912 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:34:59,912 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.10 seconds
+2025-03-05 09:35:01,010 - connection - INFO - Restarting bot
+2025-03-05 09:35:01,026 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:01,026 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:35:02,104 - connection - INFO - Restarting bot
+2025-03-05 09:35:02,182 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:02,182 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:03,249 - connection - INFO - Restarting bot
+2025-03-05 09:35:03,270 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:03,270 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:35:04,283 - connection - INFO - Restarting bot
+2025-03-05 09:35:04,309 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:04,309 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:05,342 - connection - INFO - Restarting bot
+2025-03-05 09:35:05,363 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:05,363 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:06,392 - connection - INFO - Restarting bot
+2025-03-05 09:35:06,410 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:06,410 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:07,445 - connection - INFO - Restarting bot
+2025-03-05 09:35:07,465 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:07,466 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:35:08,546 - connection - INFO - Restarting bot
+2025-03-05 09:35:08,603 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:08,604 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:35:09,644 - connection - INFO - Restarting bot
+2025-03-05 09:35:09,663 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:09,663 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:35:10,720 - connection - INFO - Restarting bot
+2025-03-05 09:35:10,739 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:10,739 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.09 seconds
+2025-03-05 09:35:11,833 - connection - INFO - Restarting bot
+2025-03-05 09:35:11,852 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:11,852 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.10 seconds
+2025-03-05 09:35:12,952 - connection - INFO - Restarting bot
+2025-03-05 09:35:12,971 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:12,971 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:14,000 - connection - INFO - Restarting bot
+2025-03-05 09:35:14,019 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:14,019 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:15,090 - connection - INFO - Restarting bot
+2025-03-05 09:35:15,110 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:15,111 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:35:16,156 - connection - INFO - Restarting bot
+2025-03-05 09:35:16,178 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:16,178 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.05 seconds
+2025-03-05 09:35:17,226 - connection - INFO - Restarting bot
+2025-03-05 09:35:17,339 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:17,339 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:18,412 - connection - INFO - Restarting bot
+2025-03-05 09:35:18,434 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:18,434 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:19,464 - connection - INFO - Restarting bot
+2025-03-05 09:35:19,513 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:19,514 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.10 seconds
+2025-03-05 09:35:20,615 - connection - INFO - Restarting bot
+2025-03-05 09:35:20,634 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:20,635 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:21,703 - connection - INFO - Restarting bot
+2025-03-05 09:35:21,728 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:21,728 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:35:22,742 - connection - INFO - Restarting bot
+2025-03-05 09:35:22,765 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:22,765 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:35:23,790 - connection - INFO - Restarting bot
+2025-03-05 09:35:23,812 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:23,812 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.09 seconds
+2025-03-05 09:35:24,908 - connection - INFO - Restarting bot
+2025-03-05 09:35:24,930 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:24,930 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:26,000 - connection - INFO - Restarting bot
+2025-03-05 09:35:26,022 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:26,022 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:35:27,043 - connection - INFO - Restarting bot
+2025-03-05 09:35:27,066 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:27,067 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:35:28,148 - connection - INFO - Restarting bot
+2025-03-05 09:35:28,169 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:28,169 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:29,241 - connection - INFO - Restarting bot
+2025-03-05 09:35:29,264 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:29,264 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:30,299 - connection - INFO - Restarting bot
+2025-03-05 09:35:30,385 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:30,385 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:31,413 - connection - INFO - Restarting bot
+2025-03-05 09:35:31,476 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:31,476 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.05 seconds
+2025-03-05 09:35:32,532 - connection - INFO - Restarting bot
+2025-03-05 09:35:32,560 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:32,560 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:33,589 - connection - INFO - Restarting bot
+2025-03-05 09:35:33,619 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:33,619 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:34,651 - connection - INFO - Restarting bot
+2025-03-05 09:35:34,681 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:34,682 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:35,715 - connection - INFO - Restarting bot
+2025-03-05 09:35:35,742 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:35,742 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:35:36,783 - connection - INFO - Restarting bot
+2025-03-05 09:35:36,805 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:36,805 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:37,875 - connection - INFO - Restarting bot
+2025-03-05 09:35:37,897 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:37,897 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:35:38,959 - connection - INFO - Restarting bot
+2025-03-05 09:35:38,984 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:38,984 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:40,060 - connection - INFO - Restarting bot
+2025-03-05 09:35:40,083 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:40,084 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.10 seconds
+2025-03-05 09:35:41,185 - connection - INFO - Restarting bot
+2025-03-05 09:35:41,253 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:41,253 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:35:42,338 - connection - INFO - Restarting bot
+2025-03-05 09:35:42,362 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:42,362 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:35:43,371 - connection - INFO - Restarting bot
+2025-03-05 09:35:43,396 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:43,396 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:44,424 - connection - INFO - Restarting bot
+2025-03-05 09:35:44,449 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:44,449 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:35:45,492 - connection - INFO - Restarting bot
+2025-03-05 09:35:45,520 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:45,521 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:35:46,540 - connection - INFO - Restarting bot
+2025-03-05 09:35:46,617 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:46,617 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:47,689 - connection - INFO - Restarting bot
+2025-03-05 09:35:47,714 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:47,714 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:35:48,757 - connection - INFO - Restarting bot
+2025-03-05 09:35:48,781 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:48,781 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:35:49,845 - connection - INFO - Restarting bot
+2025-03-05 09:35:49,869 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:49,870 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.05 seconds
+2025-03-05 09:35:50,925 - connection - INFO - Restarting bot
+2025-03-05 09:35:50,954 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:50,954 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:35:51,975 - connection - INFO - Restarting bot
+2025-03-05 09:35:52,041 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:52,041 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:35:53,105 - connection - INFO - Restarting bot
+2025-03-05 09:35:53,130 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:53,131 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:35:54,152 - connection - INFO - Restarting bot
+2025-03-05 09:35:54,179 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:54,179 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:35:55,258 - connection - INFO - Restarting bot
+2025-03-05 09:35:55,285 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:55,285 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:35:56,315 - connection - INFO - Restarting bot
+2025-03-05 09:35:56,342 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:56,342 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:35:57,408 - connection - INFO - Restarting bot
+2025-03-05 09:35:57,435 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:57,435 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.05 seconds
+2025-03-05 09:35:58,491 - connection - INFO - Restarting bot
+2025-03-05 09:35:58,519 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:58,519 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:35:58,751 - connection - INFO - Connection health check passed. Bot: COINVID_PLATFORM
+2025-03-05 09:35:59,596 - connection - INFO - Restarting bot
+2025-03-05 09:35:59,625 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:35:59,626 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:36:00,700 - connection - INFO - Restarting bot
+2025-03-05 09:36:00,727 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:00,727 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:01,783 - connection - INFO - Restarting bot
+2025-03-05 09:36:01,884 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:01,884 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:36:02,960 - connection - INFO - Restarting bot
+2025-03-05 09:36:03,032 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:03,032 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:36:04,111 - connection - INFO - Restarting bot
+2025-03-05 09:36:04,166 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:04,166 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:36:05,190 - connection - INFO - Restarting bot
+2025-03-05 09:36:05,225 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:05,225 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:06,285 - connection - INFO - Restarting bot
+2025-03-05 09:36:06,317 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:06,317 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.05 seconds
+2025-03-05 09:36:07,373 - connection - INFO - Restarting bot
+2025-03-05 09:36:07,399 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:07,400 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.09 seconds
+2025-03-05 09:36:08,486 - connection - INFO - Restarting bot
+2025-03-05 09:36:08,516 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:08,516 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.05 seconds
+2025-03-05 09:36:09,566 - connection - INFO - Restarting bot
+2025-03-05 09:36:09,598 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:09,598 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:36:10,628 - connection - INFO - Restarting bot
+2025-03-05 09:36:10,658 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:10,658 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.09 seconds
+2025-03-05 09:36:11,748 - connection - INFO - Restarting bot
+2025-03-05 09:36:11,776 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:11,776 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.09 seconds
+2025-03-05 09:36:12,870 - connection - INFO - Restarting bot
+2025-03-05 09:36:13,048 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:13,048 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:36:14,094 - connection - INFO - Restarting bot
+2025-03-05 09:36:14,124 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:14,124 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:15,186 - connection - INFO - Restarting bot
+2025-03-05 09:36:15,223 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:15,223 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:36:16,240 - connection - INFO - Restarting bot
+2025-03-05 09:36:16,269 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:16,270 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:36:17,277 - connection - INFO - Restarting bot
+2025-03-05 09:36:17,362 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:17,363 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:36:18,401 - connection - INFO - Restarting bot
+2025-03-05 09:36:18,429 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:18,430 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:36:19,504 - connection - INFO - Restarting bot
+2025-03-05 09:36:19,533 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:19,534 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:36:20,615 - connection - INFO - Restarting bot
+2025-03-05 09:36:20,641 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:20,641 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.00 seconds
+2025-03-05 09:36:21,644 - connection - INFO - Restarting bot
+2025-03-05 09:36:21,674 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:21,674 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:36:22,690 - connection - INFO - Restarting bot
+2025-03-05 09:36:22,723 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:22,723 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.10 seconds
+2025-03-05 09:36:23,822 - connection - INFO - Restarting bot
+2025-03-05 09:36:23,888 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:23,888 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.01 seconds
+2025-03-05 09:36:24,895 - connection - INFO - Restarting bot
+2025-03-05 09:36:24,925 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:24,925 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:36:25,969 - connection - INFO - Restarting bot
+2025-03-05 09:36:26,000 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:26,001 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:27,066 - connection - INFO - Restarting bot
+2025-03-05 09:36:27,096 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:27,096 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.10 seconds
+2025-03-05 09:36:28,194 - connection - INFO - Restarting bot
+2025-03-05 09:36:28,227 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:28,227 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:36:29,265 - connection - INFO - Restarting bot
+2025-03-05 09:36:29,303 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:29,303 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:36:30,324 - connection - INFO - Restarting bot
+2025-03-05 09:36:30,389 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:30,389 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:36:31,456 - connection - INFO - Restarting bot
+2025-03-05 09:36:31,558 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:31,559 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:32,621 - connection - INFO - Restarting bot
+2025-03-05 09:36:32,732 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:32,732 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:36:33,757 - connection - INFO - Restarting bot
+2025-03-05 09:36:33,790 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:33,790 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:36:34,862 - connection - INFO - Restarting bot
+2025-03-05 09:36:34,929 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:34,929 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:35,988 - connection - INFO - Restarting bot
+2025-03-05 09:36:36,020 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:36,020 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.03 seconds
+2025-03-05 09:36:37,048 - connection - INFO - Restarting bot
+2025-03-05 09:36:37,086 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:37,087 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.07 seconds
+2025-03-05 09:36:38,163 - connection - INFO - Restarting bot
+2025-03-05 09:36:38,197 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:38,197 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:39,263 - connection - INFO - Restarting bot
+2025-03-05 09:36:39,297 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:39,297 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.00 seconds
+2025-03-05 09:36:40,302 - connection - INFO - Restarting bot
+2025-03-05 09:36:40,343 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:40,343 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.08 seconds
+2025-03-05 09:36:41,423 - connection - INFO - Restarting bot
+2025-03-05 09:36:41,455 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:41,455 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.04 seconds
+2025-03-05 09:36:42,493 - connection - INFO - Restarting bot
+2025-03-05 09:36:42,526 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:42,526 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.02 seconds
+2025-03-05 09:36:43,548 - connection - INFO - Restarting bot
+2025-03-05 09:36:43,697 - connection - ERROR - Error during bot restart: await wasn't used with future
+2025-03-05 09:36:43,697 - connection - INFO - Attempting to reconnect (attempt 1/10) after 1.06 seconds
+2025-03-05 09:36:43,697 - connection - INFO - Connection health monitoring stopped
+2025-03-05 09:36:43,698 - connection - INFO - Watchdog monitoring stopped
+2025-03-05 09:36:43,700 - connection - ERROR - Unexpected error in main loop: await wasn't used with future
+2025-03-05 09:36:43,701 - connection - INFO - Shutdown initiated
+2025-03-05 09:36:43,701 - connection - INFO - Shutdown complete
+2025-03-05 09:36:43,701 - connection - INFO - Shutdown initiated
+2025-03-05 09:36:43,701 - connection - INFO - Shutdown complete

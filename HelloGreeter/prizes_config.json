@@ -1,0 +1,16 @@
+{
+    "prizes": [
+        {
+            "name": "10 Points",
+            "odds": 30
+        },
+        {
+            "name": "Prize 2",
+            "odds": 30
+        },
+        {
+            "name": "Prize 3",
+            "odds": 20
+        }
+    ]
+}

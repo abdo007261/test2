@@ -1,0 +1,16 @@
+{
+    "channels": {
+        "-1002377721796": {
+            "name": "test",
+            "selected": true
+        },
+        "-1002160035199": {
+            "name": "Bot60sETH_TEST",
+            "selected": true
+        },
+        "-1002143400626": {
+            "name": "Number Guessing Bot",
+            "selected": true
+        }
+    }
+}

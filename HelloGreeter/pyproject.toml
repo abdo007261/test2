@@ -1,0 +1,13 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "apscheduler>=3.11.0",
+    "filelock>=3.17.0",
+    "moviepy>=2.1.2",
+    "pyrogram>=2.0.106",
+    "pytz>=2025.1",
+    "tgcrypto>=1.2.5",
+]
