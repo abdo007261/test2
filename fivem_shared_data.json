@@ -1,0 +1,37 @@
+{
+  "timestamp": 1755443382567,
+  "game_data": {
+    "code": 200,
+    "success": true,
+    "data": {
+      "records": [
+        {
+          "issue": 2031700177,
+          "value": "4",
+          "resultFormatValueI18n": [
+            "\u7ea2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "4",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "processed_data": {
+    "issue_number": 2031700177,
+    "colors": "RED   \ud83d\udd34",
+    "result_format": "4",
+    "game_type": "RG5M",
+    "last_update": 1755443382567
+  }
+}

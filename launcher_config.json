@@ -1,0 +1,74 @@
+{
+    "launcher_settings": {
+        "auto_start": true,
+        "monitor_interval": 5,
+        "restart_on_failure": true,
+        "max_restart_attempts": 3,
+        "startup_delay": 1
+    },
+    "bot_groups": {
+        "trading_bots": [
+            "pyrobuddy",
+            "55btc",
+            "signal_generator_main",
+            "signal_generator_pyrogram",
+            "signal_generator_copytrading",
+            "signal_generator_auto",
+            "red_green"
+        ],
+        "game_bots": [
+            "dices",
+            "number_guessing",
+            "blocks_bot",
+            "telethon_guessing"
+        ],
+        "fivem_bots": [
+            "fivem_bots",
+            "fivem_en",
+            "fivem_indonesia",
+            "fivem_vietnam",
+            "fivem_japan"
+        ],
+        "utility_bots": [
+            "hellogreeter",
+            "mebot",
+            "mebot_alt",
+            "root_bot"
+        ],
+        "signal_bots": [
+            "signal_generator_main",
+            "signal_generator_pyrogram",
+            "signal_generator_copytrading",
+            "signal_generator_auto"
+        ],
+        "all_bots": [
+            "root_bot",
+            "pyrobuddy",
+            "55btc",
+            "signal_generator_main",
+            "signal_generator_pyrogram",
+            "signal_generator_copytrading",
+            "signal_generator_auto",
+            "hellogreeter",
+            "dices",
+            "number_guessing",
+            "blocks_bot",
+            "telethon_guessing",
+            "red_green",
+            "fivem_bots",
+            "fivem_en",
+            "fivem_indonesia",
+            "fivem_vietnam",
+            "fivem_japan",
+            "mebot",
+            "mebot_alt"
+        ]
+    },
+    "excluded_bots": [],
+    "startup_group": "all_bots",
+    "logging": {
+        "enabled": true,
+        "level": "INFO",
+        "file": "launcher.log"
+    }
+}

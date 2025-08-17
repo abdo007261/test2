@@ -1,0 +1,29 @@
+# Requirements for the Bot Launcher
+# These are the minimum dependencies needed to run the launcher
+
+# Core Python libraries (usually included with Python)
+# pathlib - included in Python 3.4+
+# subprocess - included in Python standard library
+# threading - included in Python standard library
+# time - included in Python standard library
+# signal - included in Python standard library
+# argparse - included in Python standard library
+# json - included in Python standard library
+# os - included in Python standard library
+# sys - included in Python standard library
+
+# No additional packages required for the launcher itself
+# The launcher only uses Python standard library modules
+
+# Note: Individual bots may require their own dependencies:
+# - pyrogram
+# - telethon  
+# - aiogram
+# - flet
+# - requests
+# - asyncio
+# - apscheduler
+# - sqlite3 (usually included)
+# - pytz
+# - moviepy
+# - filelock
