@@ -42,9 +42,6 @@ APScheduler>=3.10.4
 # Redis client for data sharing between bots
 redis>=5.0.1
 
-# SQLite3 is included with Python, but for completeness
-# sqlite3 - built-in with Python
-
 # =============================================================================
 # GUI AND INTERFACE
 # =============================================================================
@@ -86,59 +83,6 @@ paramiko>=3.4.0
 
 # Environment variable management
 python-dotenv>=1.0.0
-
-# =============================================================================
-# UTILITY LIBRARIES
-# =============================================================================
-
-# Decimal arithmetic for financial calculations
-decimal  # Built-in with Python
-
-# JSON handling - built-in with Python
-# json - built-in with Python
-
-# Asyncio - built-in with Python 3.7+
-# asyncio - built-in with Python
-
-# Threading - built-in with Python
-# threading - built-in with Python
-
-# OS operations - built-in with Python
-# os - built-in with Python
-
-# System operations - built-in with Python
-# sys - built-in with Python
-
-# Time operations - built-in with Python
-# time - built-in with Python
-
-# Random number generation - built-in with Python
-# random - built-in with Python
-
-# Path operations - built-in with Python 3.4+
-# pathlib - built-in with Python
-
-# Subprocess management - built-in with Python
-# subprocess - built-in with Python
-
-# Signal handling - built-in with Python
-# signal - built-in with Python
-
-# Argument parsing - built-in with Python
-# argparse - built-in with Python
-
-# Platform detection - built-in with Python
-# platform - built-in with Python
-
-# Type hints - built-in with Python 3.5+
-# typing - built-in with Python
-
-# =============================================================================
-# VERSION SPECIFICATIONS
-# =============================================================================
-
-# Python version requirement
-# Requires Python 3.8+ for all features to work properly
 
 # =============================================================================
 # INSTALLATION NOTES
