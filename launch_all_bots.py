@@ -47,14 +47,14 @@ class BotLauncher:
     def load_bot_configurations(self):
         """Load all bot configurations from the workspace"""
         self.bot_configs = {
-            # PyroBuddy bot
-            "pyrobuddy": {
-                "name": "PyroBuddy Bot",
-                "path": self.workspace_root / "PyroBuddy" / "bot.py",
-                "working_dir": self.workspace_root / "PyroBuddy",
-                "description": "Pyrogram-based trading signal bot",
-                "type": "pyrogram"
-            },
+            # # PyroBuddy bot
+            # "pyrobuddy": {
+            #     "name": "PyroBuddy Bot",
+            #     "path": self.workspace_root / "PyroBuddy" / "bot.py",
+            #     "working_dir": self.workspace_root / "PyroBuddy",
+            #     "description": "Pyrogram-based trading signal bot",
+            #     "type": "pyrogram"
+            # },
             
             # # 55BTC bot
             # "55btc": {
