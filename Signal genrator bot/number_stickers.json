@@ -1,0 +1,502 @@
+{
+    "1": {
+        "file_id": "CAACAgUAAxkBAAIBfWhR3tflMHs1cF99eD32eJRpQpCAAALyFgAChFe4VUprZjeXF2ejHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "2": {
+        "file_id": "CAACAgUAAxkBAAIBgGhR3urPHqE1LH3j08ELw9KLJgIBAAJfFAACIf24VbG_DuFAXKVAHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "3": {
+        "file_id": "CAACAgUAAxkBAAIBg2hR3u3JWEHqUHsEJFQNLNxN3ks_AAIvFQACy0u4VUkmXgOTzQmnHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "4": {
+        "file_id": "CAACAgUAAxkBAAIBhmhR3vPc4z-kmsiqf9dYAAHLXvk_XQACwxUAAtHNuVWw0H2TbF3lfh4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "5": {
+        "file_id": "CAACAgUAAxkBAAIBiWhR3wWtsHgYHnqwDHnGpwdEy5w1AAINIgACTmK5VQstuyPWsf6lHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "6": {
+        "file_id": "CAACAgUAAxkBAAIBjGhR3wZ0Ps2ODJg_9CfHmfBFU17EAAK-FQACOyq4VYBl0kYVAsTYHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "7": {
+        "file_id": "CAACAgUAAxkBAAIBj2hR3wju1KMV69a5uTgouD12uEY2AALqFwACRvy4VZ1viMx-svOzHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "8": {
+        "file_id": "CAACAgUAAxkBAAIBkmhR3wqvhjwa2tyHvI7cEQxsBvE0AALMFQACtZS5VcW49O98RxECHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "9": {
+        "file_id": "CAACAgUAAxkBAAIBlWhR3wv8GjNCImyTyksnQAABhuFrfAACQRkAAt17uVVbatoqdZA-mR4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "10": {
+        "file_id": "CAACAgUAAxkBAAIBmGhR3wwTPvw_A8T2UP92a8i6ZQd0AAJWFwACU6C4VbiYrBuHGZ5aHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "11": {
+        "file_id": "CAACAgUAAxkBAAIBm2hR3w_EkA3ypkMpyKjG82y8VgV2AALNFQACcbi4VcjJH9-f48EeHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "12": {
+        "file_id": "CAACAgUAAxkBAAIBnmhR3xDoAQc8woPN0bEFggfYLqHiAALsGAACadu4VYMQYvc1DinUHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "13": {
+        "file_id": "CAACAgUAAxkBAAIBoWhR3xKnSSjY-d4Er-ZBB63DSnHDAAJqGQACLgSwVd5W-2vID-UEHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "14": {
+        "file_id": "CAACAgUAAxkBAAIBpGhR3xPjbSDOZ_NsiqKUZTGZZFALAAJgGQACkIe5VUPlwMmNCkMYHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "15": {
+        "file_id": "CAACAgUAAxkBAAIBp2hR3xWT5LqUW5PpW1UPcSqEp0z4AAJCFwACPSG4VSOinVFwbIMMHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "16": {
+        "file_id": "CAACAgUAAxkBAAIBqmhR3xZ9NxNQxkDYw4htKOQt7VjMAAL_FwAChc24VePEOJzKJu6kHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "17": {
+        "file_id": "CAACAgUAAxkBAAIBrWhR3xctmR0-GqODPzGze0xFniQ2AAIsGQAChqe4VYGIg3kBpYl3HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "18": {
+        "file_id": "CAACAgUAAxkBAAIBsGhR3xiOGkrYYecnNKo5unNxPe-FAAKCFAAChBq5VYNySmyNJ40bHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "19": {
+        "file_id": "CAACAgUAAxkBAAIBs2hR3xqqzj3Xt82-92dTQnD69i0DAAKfGgAC2964VeIMGbqEthe4HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "20": {
+        "file_id": "CAACAgUAAxkBAAIBtmhR3xvu_JjS95Oiyy34C0JUPMvrAALbFwACAxq5VcMAASH5Wvj1qx4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "21": {
+        "file_id": "CAACAgUAAxkBAAIBuWhR3xwt2CV-UiWQwJFiHR1k15PgAAIIFgACWSC4VQyGp1UK83CJHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "22": {
+        "file_id": "CAACAgUAAxkBAAIBvGhR3x7Xac0LCeHMZdAGZORTB3pRAAJ7GQACwVS5VU_7TxtX20pNHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "23": {
+        "file_id": "CAACAgUAAxkBAAIBv2hR3x_yI7XtL7yw27AJ-LaJzolWAAIvFgACISKxVW5BuXLqpnM7HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "24": {
+        "file_id": "CAACAgUAAxkBAAIBwmhR3yBAWu8sX-lqltEwAgO_xy6_AAILFQACflK5VQgynUD-SogFHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "25": {
+        "file_id": "CAACAgUAAxkBAAIBxWhR3yHKOEcnN7wqMx5tHh-2bf88AAI5FgACNWm4VU191NydCeMwHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "26": {
+        "file_id": "CAACAgUAAxkBAAIByGhR3yOnFusfpcb0lefjeVn-sIE0AAKkFwACe9m5VZawXERgaZWRHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "27": {
+        "file_id": "CAACAgUAAxkBAAIBy2hR3ySVRmZI1JpbEh_8GhE6IzfdAALmFQACQYq4VQG1rBNJC2hEHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "28": {
+        "file_id": "CAACAgUAAxkBAAIBzmhR3yVo7z6d8BcAAZJRwC7VZiJNlAACcRcAAmxsuFX6JGhJFlpsiB4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "29": {
+        "file_id": "CAACAgUAAxkBAAIB0WhR3yZx14weKeiz1RRwwpPqMr8ZAALJGgACt2i4VdcF0e_EjnxTHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "30": {
+        "file_id": "CAACAgUAAxkBAAIB1GhR3yifufxnPrUObC2wlwuw5t0bAAMTAAKar7lV-Z4he_PRAXweBA",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "31": {
+        "file_id": "CAACAgUAAxkBAAIB12hR3ymZbEGoBbohCDYZZt0dkS5FAAJ2FwACCU-5VYWSBEjvFCSEHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "32": {
+        "file_id": "CAACAgUAAxkBAAIB2mhR3ytDsoLSbz1zfk7peg4vtiBmAALXFQACgiS4VWA-zhLQGrxKHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "33": {
+        "file_id": "CAACAgUAAxkBAAIB3WhR3yzlUqfDYLd46wz4rZSUk5QKAAK8GgAC5LK4VVESBkYXhAUGHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "34": {
+        "file_id": "CAACAgUAAxkBAAIB4GhR3y0SN5gLh88qgaKnnGADrMCkAAI3FgACxzq5VXrrIiuqVp70HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "35": {
+        "file_id": "CAACAgUAAxkBAAIB42hR3zL4put_Pag7Iu6XThOTZ5e8AAIxGQAClW-4VaA7LYuk3W2wHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "36": {
+        "file_id": "CAACAgUAAxkBAAIB5mhR3zPFcqQG6w2jZ3ZeG3d-njyKAAKZFwAC9DCwVShjAAHQqWaSLB4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "37": {
+        "file_id": "CAACAgUAAxkBAAIB6WhR3zRaxnH_ZUuSUL69ijsw7VRhAAJGGQACuxm4VV9CnU03Z6MEHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "38": {
+        "file_id": "CAACAgUAAxkBAAIB7GhR3zY0qoL-0wEa61ogtyE37YluAALkFAACXaG4VRoJ16kruKXDHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "39": {
+        "file_id": "CAACAgUAAxkBAAIB72hR3zjeBZ05Q4LyZr3OUx8r-H2ZAAKWFgACihG5VfzwS9s4iSHRHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "40": {
+        "file_id": "CAACAgUAAxkBAAIB8mhR3zodtt0hWTWDPM4honjIU22UAAIYGQAC53K5VXhST6On5oQpHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "41": {
+        "file_id": "CAACAgUAAxkBAAIB9WhR3ztpBFeXuzPAevSKzB-XhRmuAAJ9FAAC0W24VZqMt9M4ayGHHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "42": {
+        "file_id": "CAACAgUAAxkBAAIB-GhR30DJKzbOB_P95Kp6BoqBG5XGAAKMFAACpzO4VX9Mu2-d1OWjHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "43": {
+        "file_id": "CAACAgUAAxkBAAIB-2hR30FzwHmdNHx1VZybOR0eVJpXAAJ6FQACSlu5VSyEr-aXE3_JHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "44": {
+        "file_id": "CAACAgUAAxkBAAIB_mhR30KXrcjlL5kITkd73J5vdjrBAAK4FQACKTu5VZJqK1LjwijqHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "45": {
+        "file_id": "CAACAgUAAxkBAAICAWhR30NMZ0rjk23__CW5HlRjPOpXAAJKFQACnOm4VbT76wYoKfKtHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "46": {
+        "file_id": "CAACAgUAAxkBAAICBGhR30esP4HVBwSHR_W6iYpltXT9AALuGQAC2qS5VSZUW3M-E6YRHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "47": {
+        "file_id": "CAACAgUAAxkBAAICB2hR30hiMe81pKpWPMiwYN2iQdIaAALoFgACXDy4VUbgkEQOJqu1HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "48": {
+        "file_id": "CAACAgUAAxkBAAICCmhR30njyvOONQ4DQWCjJOi0pPGeAAJdHAAC_P64VcUUHTTHTZeYHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "49": {
+        "file_id": "CAACAgUAAxkBAAICDWhR30tMPYGqGbRl6U2D5JU4p64XAAIMGAACDRW5VfL-3khbrnD6HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "50": {
+        "file_id": "CAACAgUAAxkBAAICEGhR30zevAUyrS_EweZC-X6W33ZiAALNFQACVN64VTvtwBPARmOVHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "51": {
+        "file_id": "CAACAgUAAxkBAAICE2hR300twg8g027Tc8f33rdxYWjAAAKUFAACSg65VfyaRsywvVpQHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "52": {
+        "file_id": "CAACAgUAAxkBAAICFmhR305ZITUhwOYZIalNr5fPLqFaAALuFQACTsG4VeP-DZ9Aia4CHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "53": {
+        "file_id": "CAACAgUAAxkBAAICGWhR308L97A8nN4c8pZZ_H8pu8vyAAJCFgACGd65VaVNtNvwFbA_HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "54": {
+        "file_id": "CAACAgUAAxkBAAICHGhR31Bpq2iO0VuHdWb1qNUVpUDxAAL8FgACe8K4Vbq00Sq1UmVAHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "55": {
+        "file_id": "CAACAgUAAxkBAAICH2hR31L_Hc_Te07o1wNxvhvImR2UAAKfFAACSBa5VaDseYY7XmvDHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "56": {
+        "file_id": "CAACAgUAAxkBAAICImhR31MwDRpY4jgIazD6kk5YrwqbAAItFAACfcywVa192e0P904UHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "57": {
+        "file_id": "CAACAgUAAxkBAAICJWhR31TksmEeWeaHdYVu96-2vq6mAAIWFgACf6S4VdmNGAw_CO03HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "58": {
+        "file_id": "CAACAgUAAxkBAAICKGhR31V2FFeKGGUMDU9TntJCs6UTAAJtFQACIS-5VUvhfWRPpHfmHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "59": {
+        "file_id": "CAACAgUAAxkBAAICK2hR31WL4fGCv3qvH_LrXzOCKmBSAAKdFQAC9Uu5VXKoL9P1n4tbHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "60": {
+        "file_id": "CAACAgUAAxkBAAICLmhR31aEZdlVbS-HkmlBQWoOfSFpAAJCFwACeYS5VfQFN3Oo8vVhHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "61": {
+        "file_id": "CAACAgUAAxkBAAICMWhR31fH9hDOoa5m7y3RQFuuVhNvAAIWGAACLJu5VYPpezorsgEhHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "62": {
+        "file_id": "CAACAgUAAxkBAAICNGhR31juxVeqR_-WI4XGV71YkY5XAAJyGAACCdK4VYA1LCyGxX5lHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "63": {
+        "file_id": "CAACAgUAAxkBAAICN2hR31rbmYbaf8mqkhAzp7U3F2IgAALfGQAC7eG5VWU4OB68u9PXHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "64": {
+        "file_id": "CAACAgUAAxkBAAICOmhR31tZwpKgyikIQZXnk5Urx31cAALxFQACfjm5VTg0O7GeCVqbHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "65": {
+        "file_id": "CAACAgUAAxkBAAICPWhR31wtAo2wkwgSiPi-G75Jws7AAALZFwACbRO4VdWxiM1Jap4CHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "66": {
+        "file_id": "CAACAgUAAxkBAAICQGhR310wICQnnyLcB6jotZMcwi2EAAMYAAJc8LlVTs3OjtpUpzEeBA",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "67": {
+        "file_id": "CAACAgUAAxkBAAICQ2hR315NMCKH8QihnXGcrR2ElCFLAAJYGQACKFK5VS-7Dgwfz07PHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "68": {
+        "file_id": "CAACAgUAAxkBAAICRmhR3194ujBKgUVxApabN9ANCmnFAALcFAAC3uK5VftZhPqx3sPdHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "69": {
+        "file_id": "CAACAgUAAxkBAAICSWhR32CoQ6mS-61Q5I-aE_oXMWH-AAIwGAACRBe5VfkCfFQevOMdHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "70": {
+        "file_id": "CAACAgUAAxkBAAICTGhR32H7sMhdfWHDdyDa4x0w4pYyAAK6FwAC1lq5VanTwqyqeQiJHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "71": {
+        "file_id": "CAACAgUAAxkBAAICT2hR32PYpRdVYdYgmkyA3ClVoq82AALyFQACUnC5VbAtrwFQQro4HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "72": {
+        "file_id": "CAACAgUAAxkBAAICUmhR32Smd8sXikQeQ4nD59bbOEWzAALIIAACq525VeE_Ap3wU9aZHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "73": {
+        "file_id": "CAACAgUAAxkBAAICVWhR32VvkjhEdUwLSeqW9Ns96CCeAAIgFwACQXu4VWItbi2hfpxMHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "74": {
+        "file_id": "CAACAgUAAxkBAAICWGhR32VJVB4guwMDmzDBGbiBppA-AAJfGgACtD24Va53rum7T7AXHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "75": {
+        "file_id": "CAACAgUAAxkBAAICW2hR32ayjvMq9dQq9c0-guCOcNhWAALeFAAC8wK4VTiiiMvqBF4cHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "76": {
+        "file_id": "CAACAgUAAxkBAAICXmhR32eRfSiETCt35j4uCRFEzKwtAAJsFwAC9PSxVWXEEp43TJSsHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "77": {
+        "file_id": "CAACAgUAAxkBAAICYWhR32gC5NcQLGXoj1seRe_mVtU4AAKaFgACX2e5VfE8LiRkO5STHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "78": {
+        "file_id": "CAACAgUAAxkBAAICZGhR32nmUPHBjJeFpuhtEhRN6thuAAK5FgAC7-O4Vdn0urDvHILhHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "79": {
+        "file_id": "CAACAgUAAxkBAAICZ2hR32oK3aP20tLCUZBK3tGrYN_lAAK0UwACwg25VXPNMhD22DjsHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "80": {
+        "file_id": "CAACAgUAAxkBAAICamhR32uddVH57Y74WjbvQSwCEQxTAAIZFgACDHq5VWY4IL4FDn2PHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "81": {
+        "file_id": "CAACAgUAAxkBAAICbWhR32wG1cQxQ5t9sTKmNPtnzxLXAAIRGAACWhC4VW8N1RyL-mswHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "82": {
+        "file_id": "CAACAgUAAxkBAAICcGhR321-BskHr4nJB2qrLhpTeCQgAAKUFwACxEa5VQ0VR2AQVAcSHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "83": {
+        "file_id": "CAACAgUAAxkBAAICc2hR327axtYiFbRr-yWnZ5xPjUeuAAKzFgACKBu5VXPfmpU9l2Q_HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "84": {
+        "file_id": "CAACAgUAAxkBAAICdmhR328USHv33u2Emgg8ixiaXIdoAAJ3FgACz6W4VUgNFuk6CFfBHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "85": {
+        "file_id": "CAACAgUAAxkBAAICeWhR33BDsnmdnC3D1lyyJrbJAm0IAAL-GwACZnq5VYX5z2huwMKWHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "86": {
+        "file_id": "CAACAgUAAxkBAAICfGhR33HXjTYGjxmiBauh-pqB4VMaAAJ4GgACl4C4VRW5cZsAAbcoAx4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "87": {
+        "file_id": "CAACAgUAAxkBAAICf2hR33L6hoMKIMYU7xyhb0pdGtGVAALIFgACjBS5VRgsE0EOiKI4HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "88": {
+        "file_id": "CAACAgUAAxkBAAICgmhR33P4j4GBFrgAAW_0M_XCDF4AASwAAkITAAKO57hVet_MmzX9t2keBA",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "89": {
+        "file_id": "CAACAgUAAxkBAAIChWhR33SWJZC9SAp6SIk4C2BsSgpgAAKdFQAC9SK4VbdfKbw5enrMHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "90": {
+        "file_id": "CAACAgUAAxkBAAICiGhR33WhCEnoVQP2IAl-RifPXJ9eAAIWGgACJcC5VYmp0kK0cWyVHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "91": {
+        "file_id": "CAACAgUAAxkBAAICi2hR33dSEPQO3DfMQbGLNOwCyBZXAALeFQAC3Q25VY8vErAQY7ObHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "92": {
+        "file_id": "CAACAgUAAxkBAAICjmhR33gcrCFIINLaWPKM9oLe7G8oAAIRFAAC5tm4VU1_iG5Tt_h5HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "93": {
+        "file_id": "CAACAgUAAxkBAAICkWhR33lfdYRtygzBzYWkiBt0mFBHAAJmHgACJJ-5VWFc5UlPhH0gHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "94": {
+        "file_id": "CAACAgUAAxkBAAIClGhR33vuLCwU85GvjMdXUZwnT7mNAAJhFAACuxW4Vbm1tqWW0O4aHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "95": {
+        "file_id": "CAACAgUAAxkBAAICl2hR331RoYnghiFcm6KU6I5tXAvSAAJsHAACJ7S5VZsAAWWsHX_kBR4E",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "96": {
+        "file_id": "CAACAgUAAxkBAAICmmhR337vGRo0U_1z1v9mUY_zVTgBAAKtFgACj_G4VdC9eAlMRpisHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "97": {
+        "file_id": "CAACAgUAAxkBAAICnWhR339SIpCOaE2mJcKsuoJBZmIDAAKyFAAC0aK4VTsDd_infwcCHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "98": {
+        "file_id": "CAACAgUAAxkBAAICoGhR34CkIH15oLoqPI3z3gwV6tFYAAI3FQACA024VVGd29RvUgVCHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "99": {
+        "file_id": "CAACAgUAAxkBAAICo2hR34JMc6cVqEdA4Q0DbF1--qlvAAKAFgACoMu4VacqKBeZYKO0HgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    },
+    "100": {
+        "file_id": "CAACAgUAAxkBAAICpmhR34PXYwOiu0VvXCHp5uyRyqx7AAKoFgAC-sS4VWQB3Ed115QiHgQ",
+        "emoji": "\u2b50\ufe0f",
+        "set_name": "COINVID_PRO"
+    }
+}

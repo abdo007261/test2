@@ -1,0 +1,121 @@
+{
+  "groups": [
+    "-1002377721796",
+    "-1002611398521",
+    "-1002143400626"
+  ],
+  "current_group": null,
+  "game": "red_green",
+  "strategy": "random",
+  "formula": "rg_r",
+  "stages": 7,
+  "win_count": 10,
+  "timer": "24/7",
+  "status": "OFF",
+  "group_settings": {
+    "-1002377721796": {
+      "title": "test",
+      "status": "ON",
+      "red_green": {
+        "strategy": "random",
+        "formula": "rr_r\ngg_g",
+        "stages": 1,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "none",
+        "timer_random": "23:05",
+        "lan": "en"
+      },
+      "blocks": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "24/7",
+        "timer_random": "24/7",
+        "lan": "en"
+      },
+      "dices": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "24/7",
+        "timer_random": "24/7",
+        "lan": "en"
+      }
+    },
+    "-1002611398521": {
+      "title": "test bot",
+      "status": "ON",
+      "red_green": {
+        "strategy": "self",
+        "formula": "rg_r\ngg_g",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "13:30-16:00-18:30-20:00-21:00-22:30-00:00",
+        "timer_random": "none",
+        "lan": "en"
+      },
+      "blocks": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "24/7",
+        "timer_random": "24/7",
+        "lan": "en"
+      },
+      "dices": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "24/7",
+        "timer_random": "24/7",
+        "lan": "en"
+      }
+    },
+    "-1002143400626": {
+      "title": "Number Guessing Bot",
+      "status": "OFF",
+      "red_green": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 1,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "none",
+        "timer_random": "21:48"
+      },
+      "blocks": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "24/7",
+        "timer_random": "24/7"
+      },
+      "dices": {
+        "strategy": "random",
+        "formula": "",
+        "stages": 7,
+        "win_count": 10,
+        "timer": "24/7",
+        "timer_formula": "24/7",
+        "timer_random": "24/7"
+      }
+    }
+  },
+  "admin_ids": [
+    1602528125,
+    6378849563,
+    7920551517
+  ]
+}

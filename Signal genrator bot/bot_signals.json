@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1755443917.78433,
+    "group_id": "-1002377721796",
+    "game": "cr",
+    "signal": "command",
+    "issue_number": "0",
+    "current_stage": 1,
+    "strategy": "command",
+    "processed": true
+  },
+  {
+    "timestamp": 1755445344.924111,
+    "group_id": "-1002377721796",
+    "game": "cr",
+    "signal": "command",
+    "issue_number": "0",
+    "current_stage": 1,
+    "strategy": "command",
+    "processed": true
+  },
+  {
+    "timestamp": 1755445648.7260838,
+    "group_id": "-1002377721796",
+    "game": "red_green",
+    "signal": "r",
+    "issue_number": "2031700947",
+    "current_stage": 1,
+    "strategy": "random",
+    "processed": true
+  },
+  {
+    "timestamp": 1755445683.377099,
+    "group_id": "-1002377721796",
+    "game": "stop",
+    "signal": "max_stages_reached",
+    "issue_number": "0",
+    "current_stage": 1,
+    "strategy": "command",
+    "processed": true
+  },
+  {
+    "timestamp": 1755446113.9331279,
+    "group_id": "-1002377721796",
+    "game": "cr",
+    "signal": "command",
+    "issue_number": "0",
+    "current_stage": 1,
+    "strategy": "command",
+    "processed": true
+  },
+  {
+    "timestamp": 1755446404.4338436,
+    "group_id": "-1002611398521",
+    "game": "cr",
+    "signal": "command",
+    "issue_number": "0",
+    "current_stage": 1,
+    "strategy": "command",
+    "processed": false
+  }
+]

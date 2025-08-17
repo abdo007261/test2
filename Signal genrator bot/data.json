@@ -1,0 +1,160 @@
+{
+  "users": {
+    "ahmed": {
+      "user_id": 0,
+      "password": "URdcqpUC",
+      "created_at": "2025-07-12T20:07:30.432083",
+      "is_admin": false
+    },
+    "testuser": {
+      "user_id": 12345,
+      "password": "testpass",
+      "created_at": "2025-07-12T21:41:19.309025",
+      "is_admin": false
+    },
+    "coinvidbotvip1": {
+      "user_id": 1602528125,
+      "password": "coinvidbotvip1",
+      "created_at": "2025-07-12T21:55:53.546096",
+      "is_admin": false
+    },
+    "@SIGNALS_GENERATOR_BOT": {
+      "user_id": 0,
+      "password": "Ut6KlHDu",
+      "created_at": "2025-07-31T16:09:52.355558",
+      "is_admin": false
+    },
+    "cs0003": {
+      "user_id": 5918797400,
+      "password": "bet365888",
+      "created_at": "2025-08-03T21:39:28.102427",
+      "is_admin": false
+    }
+  },
+  "admins": [
+    1602528125,
+    12345,
+    6378849563
+  ],
+  "groups": {
+    "test": {
+      "description": "Chat ID: -1002377721796",
+      "created_at": "2025-08-04T21:07:36.925462"
+    },
+    "Group -1002377721796": {
+      "description": "Group ID: -1002377721796",
+      "created_at": "2025-08-03T23:16:56.479927"
+    },
+    "test bot": {
+      "description": "Group ID: -1002611398521",
+      "created_at": "2025-08-04T00:53:06.190873"
+    },
+    "Number Guessing Bot": {
+      "description": "Chat ID: -1002143400626",
+      "created_at": "2025-08-04T20:37:21.278958"
+    }
+  },
+  "sessions": {
+    "12345": {
+      "username": "testuser",
+      "expires_at": "2025-07-15T21:41:19.312104"
+    },
+    "5918797400": {
+      "username": "cs0003",
+      "expires_at": "2025-08-16T17:44:28.142538"
+    },
+    "1602528125": {
+      "username": "coinvidbotvip1",
+      "expires_at": "2025-08-19T09:12:11.715103"
+    }
+  },
+  "user_languages": {
+    "1602528125": "en",
+    "6378849563": "vi",
+    "6212500541": "vi",
+    "5097404788": "en"
+  },
+  "online_users": [
+    5918797400,
+    6378849563,
+    1602528125
+  ],
+  "coinvid_credentials": {
+    "12345": {
+      "username": "testuser",
+      "password": "testpass",
+      "blade_auth": "test_token",
+      "saved_at": "2025-07-12T21:41:19.314964"
+    },
+    "1602528125": {
+      "username": "coinvidbotvip1",
+      "password": "coinvidbotvip1",
+      "blade_auth": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJpc3N1c2VyIiwiYXVkIjoiYXVkaWVuY2UiLCJ0ZW5hbnRfaWQiOiI2NzczNDMiLCJ1c2VyX25hbWUiOiJjb2ludmlkYm90dmlwMSIsInRva2VuX3R5cGUiOiJhY2Nlc3NfdG9rZW4iLCJyb2xlX25hbWUiOiIiLCJ1c2VyX3R5cGUiOiJyb2NrZXQiLCJ1c2VyX2lkIjoiMTc3MTg1MDA3MjkyNjk1NzU2OSIsImRldGFpbCI6eyJhdmF0YXIiOiI1MCIsInZpcExldmVsIjozfSwiYWNjb3VudCI6ImNvaW52aWRib3R2aXAxIiwiY2xpZW50X2lkIjoicm9ja2V0X3dlYiIsImV4cCI6MTc1NTkxMTUzNSwibmJmIjoxNzU1MzA2NzM1fQ.py9g5BopGsSDUL2iTArjttaj8ZXtK_Xyk_4vzA3U1SKecZcUptt2I2SJj-Ri9vPb3Gjugem2zPzY68wvUB1n2w",
+      "saved_at": "2025-08-16T09:12:11.714024"
+    },
+    "6378849563": {
+      "username": "coinvidbotvip1",
+      "password": "coinvidbotvip1",
+      "blade_auth": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJpc3N1c2VyIiwiYXVkIjoiYXVkaWVuY2UiLCJ0ZW5hbnRfaWQiOiI2NzczNDMiLCJ1c2VyX25hbWUiOiJjb2ludmlkYm90dmlwMSIsInRva2VuX3R5cGUiOiJhY2Nlc3NfdG9rZW4iLCJyb2xlX25hbWUiOiIiLCJ1c2VyX3R5cGUiOiJyb2NrZXQiLCJ1c2VyX2lkIjoiMTc3MTg1MDA3MjkyNjk1NzU2OSIsImRldGFpbCI6eyJhdmF0YXIiOiI1MCIsInZpcExldmVsIjozfSwiYWNjb3VudCI6ImNvaW52aWRib3R2aXAxIiwiY2xpZW50X2lkIjoicm9ja2V0X3dlYiIsImV4cCI6MTc1NDU1MzQzOSwibmJmIjoxNzUzOTQ4NjM5fQ.Z_dGo8MvqFHkK5VhQ61upTiM14BCB4ZKAsno7fN2JVA09ux4Pf5KpVil5fVXuepn1jVXt5Cy2GOUZI3KZM2u-A",
+      "saved_at": "2025-07-31T15:57:19.356624"
+    },
+    "5918797400": {
+      "username": "cs0003",
+      "password": "bet365888",
+      "blade_auth": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJpc3N1c2VyIiwiYXVkIjoiYXVkaWVuY2UiLCJ0ZW5hbnRfaWQiOiI2NzczNDMiLCJ1c2VyX25hbWUiOiJjczAwMDMiLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwicm9sZV9uYW1lIjoiIiwidXNlcl90eXBlIjoicm9ja2V0IiwidXNlcl9pZCI6IjE2MTEzMzA5NzE2MDQzMTIwNjUiLCJkZXRhaWwiOnsiYXZhdGFyIjoiNTEiLCJ2aXBMZXZlbCI6MX0sImFjY291bnQiOiJjczAwMDMiLCJjbGllbnRfaWQiOiJyb2NrZXRfd2ViIiwiZXhwIjoxNzU1OTQ1MzE1LCJuYmYiOjE3NTUzNDA1MTV9.0O_muPRDP3ub2koyOObAgF0t1L9kSxfQGWoRNVe8GbItKfsX0fjoO-wj_JyekDfI30rsqfexdT2yNYTN3ZTnvA",
+      "saved_at": "2025-08-16T18:35:15.604936"
+    }
+  },
+  "user_selected_groups": {
+    "1602528125": "Number Guessing Bot",
+    "5918797400": "test bot"
+  },
+  "user_trading_status": {
+    "1602528125": false,
+    "5918797400": true
+  },
+  "user_targets": {
+    "1602528125": {
+      "take_profit": 5.0,
+      "stop_loss": 5.0
+    },
+    "5918797400": {
+      "take_profit": 100.0,
+      "stop_loss": 500.0
+    }
+  },
+  "user_initial_balance": {
+    "1602528125": 190.675,
+    "5918797400": 26235.795
+  },
+  "user_capital_strategy": {
+    "1602528125": {
+      "strategy": "cm_martin",
+      "custom_plan": null,
+      "custom_plans": {
+        "cm_custom1": "1-2.5-4-5"
+      },
+      "base_amounts": {
+        "cm_martin": 1.0
+      }
+    },
+    "5918797400": {
+      "strategy": "cm_custom1",
+      "custom_plans": {
+        "cm_custom1": "0.01-0.03-0.08-0.24"
+      }
+    }
+  },
+  "group_languages": {
+    "-1002014103624": "en",
+    "-1002143400626": "en",
+    "-1002872950991": "en",
+    "-1002877926526": "vi",
+    "-1002377721796": "en",
+    "Bot60sETH_TEST": "vi"
+  },
+  "group_languages_by_name": {
+    "Number Guessing Bot": "en",
+    "test": "en"
+  }
+}
